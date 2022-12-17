@@ -1,0 +1,5 @@
+name: LobbyCore
+main: Core\Base
+author: Johnnywai12345
+version: 0.0.1
+api: [4.0.0]
